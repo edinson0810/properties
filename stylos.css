@@ -57,6 +57,11 @@ body {
 
 }
 
+.button__icon {
+  margin-right: 8px;
+}
+
+
 .card2 {
   --black: #000;
   background: var(--grey);
